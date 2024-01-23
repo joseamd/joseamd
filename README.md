@@ -4,7 +4,7 @@ Soy un apasionado desarrollador con conocimientos en una variedad de tecnología
 
 ## Tecnologías y Lenguajes
 
-- **Backend**: Django, Flask, Python, Spring Boot, Java, Kotlin
+- **Backend**: Django, Flask, Python, Spring Boot, Java, Kotlin, PHP
 - **Frontend**: Html, CSS3, Bootstrap, JavaScript, Ajax
 - **Contenedores**: Docker
 - **Arquitectura**: Microservicios
