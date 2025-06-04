@@ -11,14 +11,17 @@ Soy un apasionado desarrollador con conocimientos en una variedad de tecnología
 
 ## Proyectos Destacados
 
-1. [Desarrollo de una Aplicación Web para la implementación de un Programa con Base en Bootcamps](https://github.com/joseamd/Bootcamp)
+1. [Directorio Universitario](https://github.com/joseamd/UNIVALLE_DIRECTORIO)
+   - Tecnologías: Django, Python, React, JavaScript, Node.js, MUI, PostgreSQL, Arquitectura de Microservicios y GitHub.
+
+2. [Desarrollo de una Aplicación Web para la implementación de un Programa con Base en Bootcamps](https://github.com/joseamd/Bootcamp)
    - Tecnologías: HTML, Bootstrap, JavaScript, Django, Python, Arquitectura de Microservicios, Docker y GitHub.
 
-2. [Desarrollo de una aplicación web para clasificar tipos de Cervezas](https://github.com/joseamd/App-Cervezas)
+3. [Desarrollo de una aplicación web para clasificar tipos de Cervezas](https://github.com/joseamd/App-Cervezas)
    - Tecnologías: HTML, CSS, Bootstrap, JavaScript, Flask, Python y Docker.
    - Algoritmo de aprendizaje K-Nearest Neighbors (KNN) y Linear Regression.
 
-3. [Desarrollo de una aplicación web para gestionar el proceso de admisiones de una Universidad](https://github.com/joseamd/Univalle-Admisiones)
+4. [Desarrollo de una aplicación web para gestionar el proceso de admisiones de una Universidad](https://github.com/joseamd/Univalle-Admisiones)
    - Tecnologías: HTML, CSS, Bootstrap, JavaScript, Arquitectura de Microservicios, Django y Python.
 
 ## Sobre Mí
